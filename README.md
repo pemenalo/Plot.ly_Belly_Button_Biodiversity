@@ -38,6 +38,8 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 ## Deployment
 
-* Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+1. Deploy your app to a free static page hosting service, such as GitHub Pages. 
 
-* Ensure your repository has regular commits and a thorough README.md file
+    * Github Pages link: https://pemenalo.github.io/Plot.ly_Belly_Button_Biodiversity/
+
+2. Ensure your repository has regular commits and a thorough README.md file
