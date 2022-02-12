@@ -57,7 +57,7 @@ function BuildCharts(sampleId) {
                 },
             ];
             let layout = {
-                title: 'OTU\'s',
+                title: 'Top 10 OTU\'s',
 
                 showlegend: false,
                 xaxis: {
@@ -98,7 +98,7 @@ function BuildCharts(sampleId) {
             let dataBubble = [trace1];
 
             var layout = {
-                title: 'Top 10 OTU',
+                title: 'Top 10 OTU\'s',
                 showlegend: false,
                 height: 600,
                 width: 1150,
